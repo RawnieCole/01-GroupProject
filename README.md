@@ -40,3 +40,15 @@ It's 11 AM. You've searched 287 terms, watching 39 videos and you're late for wo
 ## How To Toggle Boggle
 
 ## Technologies
+
+* HTML
+* Skeleton
+* CSS
+* JavaScript
+* GitHub
+* API
+    * YouTube
+    * Spotify
+    * Giphy
+    * Random Quotes
+    * Musixmatch
