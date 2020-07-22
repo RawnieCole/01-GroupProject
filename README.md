@@ -2,7 +2,7 @@
 
 *From the Studio that brought you Weather Apps without local storage.*
 
-*From the developers of rudimentary Kanban Boards.*
+*From the developers of rudimentary Kanban Boards (Jacob Daughtry, Kristin Earnest, Grant Emerson, Joey Delapp, and Rawnie Coquat).*
 
 *Educated Experts at Vanderbilt Universities Coding Bootcamp have been orking with coordination, determination and edibles to bring you an exciting new product!*
 
@@ -10,8 +10,8 @@
 
 ## Table of Contents
 * [General Info](#general-info)
+* [How To Toggle Boggle](#how-to-toggle-boggle)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General Info
 
@@ -29,8 +29,14 @@ You click our link.  Boogle?  Toggle?  There's a quote in the header!  Forbes do
 
 You click Boggle.  The quote changes.  Nothing else happens.  You just start clicking Boggle over and over.  It doesn't make any sense.  The quotes have nothing to do with each other at all!  You are ... Mind Boggled? :eyes: Is this low key deep stuff?
 
-You press Toggle.  The colors change.  You click again.  Back to the old color.  Now you're Boggling and Toggling at
+You press Toggle.  The colors change.  You click again.  Back to the old color.  Now you're Boggling and Toggling at 0400.
+
+You type "fire" in the search box.
+
+A quote from Henry Firestone appears. A gif of a flamethrower appears. YouTube videos about fire appear. You start playing a fireplace video made by a company name after cats. You've done down the rabbit hole.
+
+It's 11 AM. You've searched 287 terms, watching 39 videos and you're late for work. Your boss is calling, but you swipe left. You've got some Bogglin to do.
+
+## How To Toggle Boggle
 
 ## Technologies
-
-## Setup
